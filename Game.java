@@ -4,6 +4,8 @@ import GModules.Window.*;
 import GModules.Assets.*;
 
 public class Game {
+
+    // EXAMPLE SCRIPT //
     
     static Window window;
     static Renderer renderer;
